@@ -19,7 +19,7 @@
 |  h   |    h    |  h  | **h**ipon  | [**h** i p o n]  |      |
 |  k   |    k    |  k  | **k**amay  | [**k** a m a y]  |      |
 |  l   |    l    |  l  | **l**obo   | [**l** o b o]    |      |
-|  m   |    m    |  m  | **m**mata  | [**m** a t a]    |      |
+|  m   |    m    |  m  | **m**ata   | [**m** a t a]    |      |
 |  n   |    n    |  n  | **n**iyog  | [**n** i y o g]  |      |
 |  ng  |    N    |  ŋ  | **ng**ipin | [**ng** i p i n] |      |
 |  p   |    p    |  p  | **p**uno   | [**p** u n o q]  |      |
